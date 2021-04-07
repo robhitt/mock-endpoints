@@ -1,0 +1,19 @@
+[{
+    "server_region": "AM",
+    "percentile__95": 601,
+    "percentile__99": 999,
+    "decoded_error_message": {
+      "alert_type": "HIGH_LATENCY",
+      "message": "In the last hour, the latency of the recommendation requests in the AM DC was 601 milliseconds in the 95th percentile and 999 milliseconds in the 99th percentile, which does not meet the SLA"
+    }
+  },
+  {
+    "server_region": "NJ",
+    "percentile__95": 744,
+    "percentile__99": 1020,
+    "decoded_error_message": {
+      "alert_type": "HIGH_LATENCY",
+      "message": "In the last hour, the latency of the recommendation requests in the AM DC was 744 milliseconds in the 95th percentile and 1020 milliseconds in the 99th percentile, which does not meet the SLA"
+    }
+  }
+]
