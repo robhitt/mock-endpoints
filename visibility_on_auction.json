@@ -1,0 +1,23 @@
+[{
+    "alert_type": "PLACEMENT_VISIBILITY_DROP",
+    "publisher_id": "1027019",
+    "publisher_name": "msn-msn-home",
+    "publisher_description": "MSN - US - Homepage",
+    "placement_name": "hp-infopane-2 | MD | Auction | UIA 1",
+    "page_type_id": "3",
+    "page_type": "Homepage",
+    "message": "0.41% visibility drop from 58.99% to 58.58% compared to last 7 days",
+    "daily_revenue_loss": "3263"
+  },
+  {
+    "alert_type": "PLACEMENT_VISIBILITY_DROP",
+    "publisher_id": "1027019",
+    "publisher_name": "msn-msn-home",
+    "publisher_description": "MSN - US - Homepage",
+    "placement_name": "hp-infopane-11 | MD | Auction | UIA 1",
+    "page_type_id": "3",
+    "page_type": "Homepage",
+    "message": "0.34% visibility drop from 26.87% to 26.53% compared to last 7 days",
+    "daily_revenue_loss": "1181"
+  }
+]

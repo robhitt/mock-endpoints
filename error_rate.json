@@ -1,0 +1,7 @@
+[{
+  "total": 60061455,
+  "success": 59907704,
+  "failure": 153751,
+  "fail_rate": 0.26,
+  "error_message": "%7b%22alert%5ftype%22%3a+%22HIGH%5fHTTP%5fERROR%5fRATE%22%2c+%22message%22%3a+%22In+the+last+hour%2c+0.26%25+of+the+recommendation+requests+accross+MSN+resulted+in+error%22%7d"
+}]

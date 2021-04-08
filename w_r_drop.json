@@ -23,18 +23,5 @@
     "daily_revenue_loss": -1427,
     "message": "10.58% win-rate drop from 40.59% to 30.01% compared to the average on the same day-of-week in the previous 3 weeks",
     "alert_type": "PLACEMENT_WIN_RATE_DROP"
-  },
-  {
-    "publisher_id": 1343253,
-    "publisher_name": "msn-bing-egypt",
-    "publisher_description": "MSN - Bing - Egypt",
-    "page_type_id": 3,
-    "page_type": "Section Fronts",
-    "placement_name": "Below Article Thumbnails | MD | Auction",
-    "win_rate_today": 0.300083656795332,
-    "avg_SDL3W": 0.405896850001277,
-    "daily_revenue_loss": -1427,
-    "message": "44.58% win-rate drop from 80.59% to 50.01% compared to the average on the same day-of-week in the previous 3 weeks",
-    "alert_type": "PLACEMENT_WIN_RATE_DROP"
   }
 ]
