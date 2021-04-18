@@ -1,19 +1,6 @@
 [{
-    "server_region": "AM",
-    "percentile__95": 601,
-    "percentile__99": 999,
-    "decoded_error_message": {
-      "alert_type": "HIGH_LATENCY",
-      "message": "In the last hour, the latency of the recommendation requests in the AM DC was 601 milliseconds in the 95th percentile and 999 milliseconds in the 99th percentile, which does not meet the SLA"
-    }
-  },
-  {
-    "server_region": "NJ",
-    "percentile__95": 744,
-    "percentile__99": 1020,
-    "decoded_error_message": {
-      "alert_type": "HIGH_LATENCY",
-      "message": "In the last hour, the latency of the recommendation requests in the AM DC was 744 milliseconds in the 95th percentile and 1020 milliseconds in the 99th percentile, which does not meet the SLA"
-    }
-  }
-]
+  "server_region": "HK",
+  "percentile__95": 454,
+  "percentile__99": 1003,
+  "error_message": "%7b%22alert%5ftype%22%3a+%22HIGH%5fLATENCY%22%2c+%22message%22%3a+%22In+the+last+hour%2c+the+latency+of+the+recommendation+requests+in+the+HK+DC+was+454+milliseconds+in+the+95th+percentile+and+1003+milliseconds+in+the+99th+percentile%2c+which+does+not+meet+the+SLA%22%7d"
+}]
