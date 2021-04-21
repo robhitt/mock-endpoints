@@ -1,5 +1,5 @@
 [{
-  "alert_type": "DESIGNATED_PLACEMENT_AVAILABILITY_DROP",
+  "alert_type": "PLACEMENT_DESIGNATED_AVAILABILITY_DROP",
   "publisher_id": "1225227",
   "publisher_name": "msn-anaheim-germany",
   "publisher_description": "MSN - Edge Browser - Germany",
