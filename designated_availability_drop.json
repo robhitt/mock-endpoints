@@ -1,0 +1,11 @@
+[{
+  "alert_type": "DESIGNATED_PLACEMENT_AVAILABILITY_DROP",
+  "publisher_id": "1225227",
+  "publisher_name": "msn-anaheim-germany",
+  "publisher_description": "MSN - Edge Browser - Germany",
+  "placement_name": "edgechrntp-infopane-3 | MD | Designated",
+  "page_type_id": "3",
+  "page_type": "Homepage",
+  "message": "14.4% designated availability drop from 68.39% to 53.99% compared to last 7 days",
+  "daily_revenue_loss": "-49.0"
+}]
