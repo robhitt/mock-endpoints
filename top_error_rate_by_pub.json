@@ -1,0 +1,31 @@
+[{
+    "publisher": "msn-msn",
+    "status_message": "duplicate placement names",
+    "status_code": 400,
+    "total_alerts": 99
+  },
+  {
+    "publisher": "msn-czechrepublic",
+    "status_message": "duplicate placement names",
+    "status_code": 400,
+    "total_alerts": 45
+  },
+  {
+    "publisher": "msn-casualgames-microsoftsolitairecollection-france",
+    "status_message": "client read error",
+    "status_code": 400,
+    "total_alerts": 13
+  },
+  {
+    "publisher": "msn-windowsapps-news-canadafr",
+    "status_message": "Could not identify the publisher [msn-windowsapps-news-canadafr]",
+    "status_code": 400,
+    "total_alerts": 7
+  },
+  {
+    "publisher": "msn-can",
+    "status_message": "duplicate placement names",
+    "status_code": 400,
+    "total_alerts": 6
+  }
+]
