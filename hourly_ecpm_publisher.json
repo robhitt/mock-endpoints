@@ -1,0 +1,10 @@
+[{
+  "timestamp": "2021-07-15 19:00:00",
+  "alert_type": "ECPM Bias by Publisher",
+  "publisher_descrition": "MSN - Edge Browser - Korea",
+  "publisher_name": "msn-anaheim-korea",
+  "publisher_id": "1225361",
+  "ecpm_available_today": "0.281144081902798",
+  "ecpm_available_avg_3_weeks": "0.236761604187595",
+  "perc_change": "18.75"
+}]
