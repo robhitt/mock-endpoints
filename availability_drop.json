@@ -1,4 +1,5 @@
-[{
+[
+  {
     "alert_type": "PLACEMENT_AVAILABILITY_DROP",
     "publisher_id": 1225264,
     "publisher_name": "msn-anaheim-us",
@@ -7,17 +8,7 @@
     "page_type_id": 3,
     "page_type": "Homepage",
     "message": "1.26% availability drop from 76.95% to 75.69 compared to last 7 days",
-    "daily_revenue_loss": -1360
-  },
-  {
-    "alert_type": "PLACEMENT_AVAILABILITY_DROP",
-    "publisher_id": 1027019,
-    "publisher_name": "msn-msn-home",
-    "publisher_description": "MSN - US - Homepage",
-    "placement_name": "hp-infopane-2 | MD | Auction | UIA 1",
-    "page_type_id": 3,
-    "page_type": "Homepage",
-    "message": "-1.59% availability drop from 79.19% to 80.77 compared to last 7 days",
-    "daily_revenue_loss": 3263
+    "daily_revenue_loss": -1360,
+    "alert_id": "PLACEMENT_AVAILABILITY_DROP-1225264-Homepage-2021-09-17T10"
   }
 ]
