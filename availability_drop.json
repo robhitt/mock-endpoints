@@ -8,7 +8,6 @@
     "page_type_id": 3,
     "page_type": "Homepage",
     "message": "1.26% availability drop from 76.95% to 75.69 compared to last 7 days",
-    "daily_revenue_loss": -1360,
-    "alert_id": "PLACEMENT_AVAILABILITY_DROP-1225264-Homepage-2021-09-17T10"
+    "daily_revenue_loss": -1360
   }
 ]
