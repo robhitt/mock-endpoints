@@ -14,12 +14,13 @@
     "ecpm_available_today": "0.287406629674935",
     "ecpm_available_avg_3_weeks": "1.56183687157818",
     "perc_change": "36.6"
+  },
+  {
+    "timestamp": "2021-07-15 19:00:00",
+    "alert_type": "ECPM Bias by Country",
+    "country_code": "US",
+    "ecpm_available_today": "0.287406629674935",
+    "ecpm_available_avg_3_weeks": "1.56183687157818",
+    "perc_change": "-5.6"
   }
-{
-  "timestamp": "2021-07-15 19:00:00",
-  "alert_type": "ECPM Bias by Country",
-  "country_code": "US",
-  "ecpm_available_today": "0.287406629674935",
-  "ecpm_available_avg_3_weeks": "1.56183687157818",
-  "perc_change": "-5.6"
-},]
+]
