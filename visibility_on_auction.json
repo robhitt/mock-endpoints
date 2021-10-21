@@ -1,4 +1,5 @@
-[{
+[
+  {
     "alert_type": "PLACEMENT_VISIBILITY_DROP",
     "publisher_id": 1027019,
     "publisher_name": "msn-msn-home",
@@ -11,12 +12,12 @@
   },
   {
     "alert_type": "PLACEMENT_VISIBILITY_DROP",
-    "publisher_id": 1027019,
-    "publisher_name": "msn-msn-home",
-    "publisher_description": "MSN - US - Homepage",
-    "placement_name": "hp-infopane-11 | MD | Auction | UIA 1",
+    "publisher_id": 1225264,
+    "publisher_name": "msn-anaheim-us",
+    "publisher_description": "MSN - Edge Browser - US",
+    "placement_name": "edgechrntp-river-1 | POS34 | MD | Auction",
     "page_type_id": 3,
-    "page_type": "Homepage",
+    "page_type": "Photo",
     "message": "0.34% visibility drop from 26.87% to 26.53% compared to last 7 days",
     "daily_revenue_loss": 1181
   }
