@@ -1,0 +1,12 @@
+[
+  {
+    "total": 50070717,
+    "success": 49282717,
+    "failure": 788000,
+    "fail_rate": 1.57,
+    "error_message": {
+      "alert_type": "HIGH_LATENCY",
+      "message": "In the last hour, the latency of the recommendation requests in the HK DC was 80 milliseconds in the 95th percentil and 20 milliseconds in the 99th percentile, which does not meet the SLA"
+    }
+  }
+]
