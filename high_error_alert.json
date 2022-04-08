@@ -3,7 +3,7 @@
     "total": 30570305,
     "success": 30512294,
     "failure": 524000,
-    "fail_rate": 0.2,
+    "fail_rate": 1.57,
     "error_message": {
       "alert_type": "HIGH_HTTP_ERROR_RATE",
       "message": "In the last hour, 1.57% of the recommendation requests accross MSN resulted in error"
