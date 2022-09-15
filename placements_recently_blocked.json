@@ -1,0 +1,12 @@
+[
+  {
+    "alert_type": "placements_recently_blocked",
+    "publisher_id": 1029826,
+    "publisher_name": "msn-ch-fr",
+    "publisher_description": "MSN - SWITZERLAND - FR",
+    "placement": "webcompar-rightrail-4 | MD | Auction",
+    "device_code": "DESK",
+    "page_type": "text",
+    "filter_name": "Losing placement"
+  }
+]
